@@ -2,13 +2,13 @@
 
 You can enter text in the input field.
 
-If the text length is less than 5, you'll see "Text too short" below the input field. If the text length is greater than 5, you'll see "Text long enough" below the input field.
+If the text length is less than 5, you'll see "Text too short" below the input field. If the text length is equal to 5 or greater than 5, you'll see "Text long enough" below the input field.
 
 Also, each letter you entered is shown below the input field with a box.
 
 By clicking each letter in a box, you can remove it. One by one.
 
-### to run this project
+### To run this project
 
 "NPM start" to run this project
 
