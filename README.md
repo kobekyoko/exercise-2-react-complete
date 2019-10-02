@@ -4,9 +4,11 @@ You can enter text in the input field.
 
 If the text length is less than 5, you'll see "Text too short" below the input field. If the text length is equal to 5 or greater than 5, you'll see "Text long enough" below the input field.
 
-Also, each letter you entered is shown below the input field with a box.
+Also, each letter you entered is shown in a box below the input field.
 
 By clicking each letter in a box, you can remove it. One by one.
+
+This small project is a good exercise to understand how to use setState of React and JavaScript's basic syntax, including ES6.
 
 ### To run this project
 
